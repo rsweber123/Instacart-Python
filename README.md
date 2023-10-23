@@ -1,4 +1,7 @@
 # Instacart-Python
+
+Instacart is an online grocery store opperating though an app.  They have traditonally strong sales, but are looking to use their sales and customer data to develop a new marketing strategy.
+
 # Objective
 
 we were tasked with conducting an initial exploritory analysis of the provided data to begin to identify trends.  Instacart provided some guidance into what they were looking for. This guidance included customer demographics, customer region, product price, and product category. 
